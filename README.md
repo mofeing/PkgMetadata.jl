@@ -1,6 +1,7 @@
 # PkgMedata.jl
 
 [![CI](https://github.com/mofeing/PkgMetadata.jl/actions/workflows/CI.yml/badge.svg)](https://github.com/mofeing/PkgMetadata.jl/actions/workflows/CI.yml)
+[![codecov](https://codecov.io/gh/mofeing/PkgMetadata.jl/branch/master/graph/badge.svg?token=5KHAT87GIF)](https://codecov.io/gh/mofeing/PkgMetadata.jl)
 
 A small library for parsing `[metadata]` of `Project.toml` files from installed packages in the environment.
 
