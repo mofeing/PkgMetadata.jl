@@ -1,0 +1,9 @@
+name = "PkgDemo"
+uuid = "3736cb39-e601-445f-987c-61a75079cc79"
+
+[metadata]
+target = "greet"
+array = ["hello", "world"]
+
+[metadata.sub]
+subtarget = "subgreet"
