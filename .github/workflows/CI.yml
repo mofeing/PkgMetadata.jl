@@ -5,11 +5,13 @@ on:
       - master
     tags: ['*']
     paths:
+      - '**.yml'
       - '**.toml'
       - '**.jl'
       - 'docs/*'
   pull_request:
     paths:
+      - '**.yml'
       - '**.toml'
       - '**.jl'
       - 'docs/*'
