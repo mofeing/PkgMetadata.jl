@@ -1,0 +1,8 @@
+name = "PkgMetadata"
+uuid = "d3ec5173-e411-466c-a952-137851032f03"
+authors = ["Sergio Sánchez Ramírez <sergio.sanchez.ramirez@bsc.es>"]
+version = "0.1.0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+TOML = "fa267f1f-6049-4f14-aa54-33bafae1ed76"
